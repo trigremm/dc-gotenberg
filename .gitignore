@@ -1,0 +1,6 @@
+.env
+!.env.example
+docker_volumes/
+.idea/
+.vscode/
+.DS_Store
